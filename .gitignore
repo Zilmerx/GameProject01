@@ -1,18 +1,21 @@
 Debug
 x64
-GameProject/Debug
-GameProject/x64
+GameProject\Debug
+GameProject\x64
 *.db
 *.opendb
 GameProject.VC.db
 *.log
 Debug/GameProject.exe
 *.pdb
-GameProject/Debug/CameraClass.obj
+GameProject\Debug\CameraClass.obj
 *.tlog
-GameProject/Debug/ObjectClass.obj
+GameProject\Debug\ObjectClass.obj
 *.obj
 *.tlog
 
 *.read.1.tlog
 *.write.1.tlog
+*.db
+GameProject/Debug/GameProject.tlog/rc.read.1.tlog
+*.exe

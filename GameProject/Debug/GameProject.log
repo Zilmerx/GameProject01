@@ -1,4 +1,4 @@
-﻿  WorldClass.cpp
+﻿  GraphicsClass.cpp
 c:\users\user\documents\github\gameproject01\gameproject\position.h(60): warning C4099: 'Point3D': type name first seen using 'class' now seen using 'struct'
   c:\users\user\documents\github\gameproject01\gameproject\position.h(4): note: see declaration of 'Point3D'
 c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(135): warning C4814: 'TileSize::operator <': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
@@ -16,86 +16,5 @@ d:\program files (x86)\vc\include\utility(593): warning C4244: '=': conversion f
               _Ty=TileSize::value_type,
               _Other=int
           ]
-  TextureShaderClass.cpp
-  TextureClass.cpp
-  SystemClass.cpp
-c:\users\user\documents\github\gameproject01\gameproject\position.h(60): warning C4099: 'Point3D': type name first seen using 'class' now seen using 'struct'
-  c:\users\user\documents\github\gameproject01\gameproject\position.h(4): note: see declaration of 'Point3D'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(135): warning C4814: 'TileSize::operator <': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(136): warning C4814: 'TileSize::operator >': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(137): warning C4814: 'TileSize::operator <=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(138): warning C4814: 'TileSize::operator >=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(140): warning C4814: 'TileSize::operator ==': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(141): warning C4814: 'TileSize::operator !=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\program files (x86)\vc\include\utility(593): warning C4244: '=': conversion from 'int' to 'TileSize::value_type', possible loss of data
-  c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(53): note: see reference to function template instantiation '_Ty std::exchange<TileSize::value_type,int>(_Ty &,_Other &&)' being compiled
-          with
-          [
-              _Ty=TileSize::value_type,
-              _Other=int
-          ]
-  ObjectClass.cpp
-c:\users\user\documents\github\gameproject01\gameproject\position.h(60): warning C4099: 'Point3D': type name first seen using 'class' now seen using 'struct'
-  c:\users\user\documents\github\gameproject01\gameproject\position.h(4): note: see declaration of 'Point3D'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(135): warning C4814: 'TileSize::operator <': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(136): warning C4814: 'TileSize::operator >': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(137): warning C4814: 'TileSize::operator <=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(138): warning C4814: 'TileSize::operator >=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(140): warning C4814: 'TileSize::operator ==': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(141): warning C4814: 'TileSize::operator !=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\program files (x86)\vc\include\utility(593): warning C4244: '=': conversion from 'int' to 'TileSize::value_type', possible loss of data
-  c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(53): note: see reference to function template instantiation '_Ty std::exchange<TileSize::value_type,int>(_Ty &,_Other &&)' being compiled
-          with
-          [
-              _Ty=TileSize::value_type,
-              _Other=int
-          ]
-  main.cpp
-c:\users\user\documents\github\gameproject01\gameproject\position.h(60): warning C4099: 'Point3D': type name first seen using 'class' now seen using 'struct'
-  c:\users\user\documents\github\gameproject01\gameproject\position.h(4): note: see declaration of 'Point3D'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(135): warning C4814: 'TileSize::operator <': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(136): warning C4814: 'TileSize::operator >': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(137): warning C4814: 'TileSize::operator <=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(138): warning C4814: 'TileSize::operator >=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(140): warning C4814: 'TileSize::operator ==': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(141): warning C4814: 'TileSize::operator !=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\program files (x86)\vc\include\utility(593): warning C4244: '=': conversion from 'int' to 'TileSize::value_type', possible loss of data
-  c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(53): note: see reference to function template instantiation '_Ty std::exchange<TileSize::value_type,int>(_Ty &,_Other &&)' being compiled
-          with
-          [
-              _Ty=TileSize::value_type,
-              _Other=int
-          ]
-  GraphicsClass.cpp
-c:\users\user\documents\github\gameproject01\gameproject\position.h(60): warning C4099: 'Point3D': type name first seen using 'class' now seen using 'struct'
-  c:\users\user\documents\github\gameproject01\gameproject\position.h(4): note: see declaration of 'Point3D'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(135): warning C4814: 'TileSize::operator <': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(136): warning C4814: 'TileSize::operator >': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(137): warning C4814: 'TileSize::operator <=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(138): warning C4814: 'TileSize::operator >=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(140): warning C4814: 'TileSize::operator ==': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(141): warning C4814: 'TileSize::operator !=': in C++14 'constexpr' will not imply 'const'; consider explicitly specifying 'const'
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\user\documents\github\gameproject01\gameproject\objectclass.h(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\program files (x86)\vc\include\utility(593): warning C4244: '=': conversion from 'int' to 'TileSize::value_type', possible loss of data
-  c:\users\user\documents\github\gameproject01\gameproject\tilesize.h(53): note: see reference to function template instantiation '_Ty std::exchange<TileSize::value_type,int>(_Ty &,_Other &&)' being compiled
-          with
-          [
-              _Ty=TileSize::value_type,
-              _Other=int
-          ]
-  D3dClass.cpp
-  ColorShaderClass.cpp
-  CameraClass.cpp
-  Model2DClass.cpp
-c:\users\user\documents\github\gameproject01\gameproject\position.h(60): warning C4099: 'Point3D': type name first seen using 'class' now seen using 'struct'
-  c:\users\user\documents\github\gameproject01\gameproject\position.h(4): note: see declaration of 'Point3D'
-  Generating Code...
   GameProject.vcxproj -> C:\Users\User\Documents\GitHub\GameProject01\Debug\GameProject.exe
   GameProject.vcxproj -> C:\Users\User\Documents\GitHub\GameProject01\Debug\GameProject.pdb (Full PDB)
