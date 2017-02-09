@@ -5,3 +5,10 @@ GameProject/x64
 *.db
 *.opendb
 GameProject.VC.db
+*.log
+Debug/GameProject.exe
+*.pdb
+GameProject/Debug/CameraClass.obj
+*.tlog
+GameProject/Debug/ObjectClass.obj
+*.obj
