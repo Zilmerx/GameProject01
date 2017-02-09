@@ -2,3 +2,6 @@ Debug
 x64
 GameProject/Debug
 GameProject/x64
+*.db
+*.opendb
+GameProject.VC.db
