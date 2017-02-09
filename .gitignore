@@ -12,3 +12,7 @@ GameProject/Debug/CameraClass.obj
 *.tlog
 GameProject/Debug/ObjectClass.obj
 *.obj
+*.tlog
+
+*.read.1.tlog
+*.write.1.tlog
